@@ -31,11 +31,11 @@ int main()
 
 
         if (login.CheckLogin(login.Username, login.Password, "matt05", "test")) {
-            cout << printColor(color.BRIGHT_GREEN, "Login eseguito");
+            cout << printColor(color.BRIGHT_GREEN, "Login successful");
             return 0;
         }
         else {
-            cout << printColor(color.BRIGHT_RED, "Username o password errati ");
+            cout << printColor(color.BRIGHT_RED, "Wrong username or password");
         }
     }
 }
