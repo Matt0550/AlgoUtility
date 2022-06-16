@@ -1,6 +1,6 @@
 /*
 AlgoUtility Extension
-Developed by Matt05 Dev
+Developed by Matt05 Dev and Pall1n
 
 Website: https://matt05.ml
 Github: @Matt0550
